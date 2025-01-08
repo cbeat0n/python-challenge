@@ -14,7 +14,6 @@ total_months = 0
 total_net = 0
 # Add more variables to track other necessary financial data
 months = []
-profitslosses = []
 net_change_list = []    # List to track the changes in the PnL for each month to month, like changes Jan to Feb (tracked as Feb)
 greatestprofits = 0     # List the greatest profits
 greatestprofitsmonth = ""   # List the month that stored the greatest profits
