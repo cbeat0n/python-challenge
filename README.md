@@ -10,3 +10,8 @@ PyPoll
 Readme file
 
 These are two folders that contain the challenges for Module 3's Homework assignment. They contain python code as well as csv files and other directories.
+
+
+Other Notes:
+I used documentation for max, min, and index functions in PyBank. I found the way to format decimal to two places with
+https://stackoverflow.com/questions/45310254/fixed-digits-after-decimal-with-f-strings.
